@@ -8,6 +8,7 @@ For all phases of the work we completed:
 5. Unit testing, integration testing, and performance testing when possible
 6. Proper deployment and production monitoring
 7. Release and feature documentation
+
 ## UI/UX
 User experience is at the centre of our design and development work. We will clearly articulate our design principles guided by industry standards and best practices and will implement a new development and testing process that incorporates evidence from users, including in-person user evaluation and feedback and analysis of analytics and other quantitative measures. Our design decisions will be based on defined user requirements and will be clearly documented in the feature backlog prior to development work beginning.
 ## Accessibility
