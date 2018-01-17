@@ -11,6 +11,7 @@ The project will have a roadmap with dated milestones and releases, listing impl
 * Deployment details
 * Potential features/out of scope
 Scrum-masters will need to adhere to the template defined, and complete related activities to keep the issues, boards and documentation up-to-date. 
+
 ### Code Review
 ### Unit/Integration/Performance Testing
 ### Proper Deployment and Production Monitoring
