@@ -1,1 +1,2 @@
-# [](#header-1)This is an about page
+# [](#header-1)About Project Jupiter
+# Development
