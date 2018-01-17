@@ -1,4 +1,3 @@
-# [](#software) Software
 # Overview
 
 # Download
