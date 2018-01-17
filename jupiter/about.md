@@ -1,9 +1,8 @@
-# Project Principles
-### UX Research
+## UX/UI
 User experience is at the centre of our design and development work. Our design decisions are based on defined user requirements that are clearly documented in the feature backlog prior to development work beginning.
-### Accessibility Assessment
+## Accessibility
 We commit to [WCAG](https://www.w3.org/WAI/WCAG20/quickref/) 2.0 level A compliance for this application. Proper setup for internationalization of the application is also accounted for in the development of the application, to ensure it will work well for (or can be easily adapted for) users from any region or language as the need arises. 
-### Security Review
+## Security
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget aliquet enim, non venenatis nisi. Praesent ac egestas quam, non lobortis erat. Cras venenatis tincidunt orci a eleifend. Quisque id orci purus. Vestibulum tincidunt leo id risus tristique, sed auctor purus hendrerit. Aenean ultricies justo ac leo interdum, et dictum orci interdum. Vestibulum non tortor a tortor fringilla consequat at dapibus dolor. Curabitur dolor diam, accumsan ut euismod ut, consectetur non mauris. Sed eget nulla ac odio imperdiet luctus non id nibh. Aenean tempor at mauris venenatis molestie. Morbi tincidunt, nibh nec egestas semper, tellus arcu imperdiet ligula, vel consequat tellus mauris sit amet ex. Cras viverra laoreet elit, nec consequat risus porttitor at. Donec blandit euismod felis non condimentum. Vivamus enim odio, vehicula et pulvinar quis, malesuada quis urna.
 # Data Model
 The Jupiter data model plays a critical role in our organization’s ability to create repositories and DAMS that organize data in an interoperable way, thus establishing a common understanding of how digital objects are conceived and represented across repositories, making it easier to support object migration unrestricted by application domain profiles, and creating a framework of consistent data structure for APIs.
