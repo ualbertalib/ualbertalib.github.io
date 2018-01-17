@@ -26,6 +26,7 @@ The project will have a roadmap with dated milestones and releases, listing impl
 * Deployment details
 * Potential features/out of scope
 Scrum-masters will need to adhere to the template defined, and complete related activities to keep the issues, boards and documentation up-to-date. 
+
 ## Rails
 The project will use standard Rails conventions and will resist custom Rails implementations. This is necessary to ensure for effective onboarding, more sustainable future data migrations, and to reduce/mitigate technical debt inside the project. As with accessibility, if we deviate from standard Rails conversions, we will have a justified reason for doing so and the decision will be clearly documented and approved.
 ## Data Modeling
