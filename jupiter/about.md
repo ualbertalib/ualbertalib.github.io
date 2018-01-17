@@ -1,11 +1,12 @@
 ## UX/UI
 User experience is at the centre of our design and development work. Our design decisions are based on defined user requirements that are clearly documented in the feature backlog prior to development work beginning. The following are used in our UX informed design process:
-* UI Design Checklist
-* Form Design Checklist
-* Keyboard Testing Design Checklist
-* Wireframes
+* [UI Design Checklist](https://docs.google.com/document/d/1TAmiG5bof2UgLbvbJ8MVZbhec00qa-lGxMKKz98yQzI/edit?usp=sharing)
+* [Form Design Checklist](https://docs.google.com/document/d/1zwoeTbd8YH0pJKWZ2XYROWkLhoQvkS6sBWPpJC5gMLY/edit?usp=sharing)
+* [Keyboard Testing Design Checklist](https://docs.google.com/document/d/1mDmHSiBQ06baDJvYQszTuY3ejuvc5BxLAdTEYHtxQaw/edit?usp=sharing)
+* [Wireframes(in Balsamiq)](https://jupiter.mybalsamiq.com)
+
 ## Accessibility
-We commit to [WCAG](https://www.w3.org/WAI/WCAG20/quickref/) 2.0 level A compliance for this application. Proper setup for internationalization of the application is also accounted for in the development of the application, to ensure it will work well for (or can be easily adapted for) users from any region or language as the need arises. 
+We commit to [WCAG](https://www.w3.org/WAI/WCAG20/quickref/) 2.0 level A compliance for this application. Proper setup for internationalization of the application is also accounted for in the development of the application, to ensure it will work well for (or can be easily adapted for) users from any region or language as the need arises. A [Web Accessibility Design checklist]() was developed to embed accessibility in our design processes. 
 ## Security
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget aliquet enim, non venenatis nisi. Praesent ac egestas quam, non lobortis erat. Cras venenatis tincidunt orci a eleifend. Quisque id orci purus. Vestibulum tincidunt leo id risus tristique, sed auctor purus hendrerit. Aenean ultricies justo ac leo interdum, et dictum orci interdum. Vestibulum non tortor a tortor fringilla consequat at dapibus dolor. Curabitur dolor diam, accumsan ut euismod ut, consectetur non mauris. Sed eget nulla ac odio imperdiet luctus non id nibh. Aenean tempor at mauris venenatis molestie. Morbi tincidunt, nibh nec egestas semper, tellus arcu imperdiet ligula, vel consequat tellus mauris sit amet ex. Cras viverra laoreet elit, nec consequat risus porttitor at. Donec blandit euismod felis non condimentum. Vivamus enim odio, vehicula et pulvinar quis, malesuada quis urna.
 ## Data Model
