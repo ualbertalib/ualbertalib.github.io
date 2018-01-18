@@ -1,5 +1,5 @@
 ## Design and Development Workflow
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vSbwEjhBIt4PYROVCRY3zWBuP6aYypEQkrzKZj8EGfz4z5SmTPQOf2P2U4mzf9WUx-X65EnSdDPuJXP/pub?embedded=true"></iframe>
+
 ## UX/UI
 User experience is at the centre of our design and development work. Our design decisions are based on defined user requirements that are clearly documented in the feature backlog prior to development work beginning. The following are used in our UX informed design process:
 * <a href= "https://docs.google.com/document/d/1TAmiG5bof2UgLbvbJ8MVZbhec00qa-lGxMKKz98yQzI/edit?usp=sharing" target="_blank">UI Design Checklist</a>
