@@ -1,5 +1,5 @@
 ## Design and Development Workflow
-! [Image of Design and Development Workflow] (https://github.com/ualbertalib/ualbertalib.github.io/blob/master/jupiter/images/Building%20in%20User%20Centred%20Design.jpg)
+![Image of Design and Development Workflow](Building%20in%20User%20Centred%20Design.jpg)
 ## UX/UI
 User experience is at the centre of our design and development work. Our design decisions are based on defined user requirements that are clearly documented in the feature backlog prior to development work beginning. The following are used in our UX informed design process:
 * <a href= "https://docs.google.com/document/d/1TAmiG5bof2UgLbvbJ8MVZbhec00qa-lGxMKKz98yQzI/edit?usp=sharing" target="_blank">UI Design Checklist</a>
