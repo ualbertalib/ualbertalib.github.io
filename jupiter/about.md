@@ -5,9 +5,9 @@ User experience is at the centre of our design and development work. Our design 
 * <a href= "https://docs.google.com/document/d/1TAmiG5bof2UgLbvbJ8MVZbhec00qa-lGxMKKz98yQzI/edit?usp=sharing" target="_blank">UI Design Checklist</a>
 * <a href= "https://docs.google.com/document/d/1zwoeTbd8YH0pJKWZ2XYROWkLhoQvkS6sBWPpJC5gMLY/edit?usp=sharing" target="_blank">Form Design Checklist</a>
 * <a href= "https://docs.google.com/document/d/1mDmHSiBQ06baDJvYQszTuY3ejuvc5BxLAdTEYHtxQaw/edit?usp=sharing" target="_blank">Keyboard Testing Design Checklist</a>
-* <a href= "https://jupiter.mybalsamiq.com" target="_blank">Wireframes (in Balsamiq)</a>
+* <a href= "https://jupiter.mybalsamiq.com" target="_blank">Wireframes (in Balsamiq)</a>. 
+The image below is a wireframe for Jupiter's deposit page:
 ![DepositItemMockup](images/deposititem.png?raw=true)
-
 ## Accessibility
 We commit to <a href= "https://www.w3.org/WAI/WCAG20/quickref/" target="_blank">WCAG 2.0 Level A</a> compliance for this application. Proper setup for internationalization of the application is also accounted for in the development of the application, to ensure it will work well for (or can be easily adapted for) users from any region or language as the need arises. A <a href= "https://docs.google.com/document/d/1tYmw3mn7vDEuI8uFMtXrTX3-SyB40II6OhQgHXH4O2I/edit?usp=sharing" target="_blank">Web Accessibility Design Checklist</a> was developed to embed accessibility in our design processes. 
 ## Security
