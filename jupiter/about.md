@@ -20,3 +20,4 @@ The Jupiter data model plays a critical role in our organization’s ability to 
 Metadata in the project was driven by UX work and service needs identified by the Product Owner and stakeholders. Our approach id documented in detail below:
 ### Data Dictionary
 The <a href= "https://github.com/ualbertalib/metadata/tree/master/data_dictionary" target="_blank">Data Dictionary's</a> primary purpose is to maintain a human/machine readable and up-to-date version of Jupiter’s metadata. It is powered by a triplestore containing all Jupiter metadata in Linked Data friendly format. An update process runs nightly, leveraging the power of github to create preservable documentation (readme files, json, xlsx and ntriples) and versioning control for changes in Jupiter metadata. A Flask powered web user interface enables developers and team members to update and modify metadata components.   
+![Jupiter Data Dictionary](images/JupiterDataDictionary.png?raw=true)
