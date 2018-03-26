@@ -1,12 +1,12 @@
 ## Design and Development Workflow
 ![UserCenteredDesignDiagram](images/UCD.jpg?raw=true)
 ## UX/UI
-User experience is at the centre of our design and development work. Our design decisions are based on defined user requirements that are clearly documented in the feature backlog prior to development work beginning. The following are used in our UX informed design process:
+User experience is at the heart of our design and development work. Our design decisions are based on defined user requirements that are clearly documented in the feature backlog prior to development work beginning. The following are used in our UX informed design process:
 * <a href= "https://docs.google.com/document/d/1TAmiG5bof2UgLbvbJ8MVZbhec00qa-lGxMKKz98yQzI/edit?usp=sharing" target="_blank">UI Design Checklist</a>
 * <a href= "https://docs.google.com/document/d/1zwoeTbd8YH0pJKWZ2XYROWkLhoQvkS6sBWPpJC5gMLY/edit?usp=sharing" target="_blank">Form Design Checklist</a>
 * <a href= "https://docs.google.com/document/d/1mDmHSiBQ06baDJvYQszTuY3ejuvc5BxLAdTEYHtxQaw/edit?usp=sharing" target="_blank">Keyboard Testing Design Checklist</a>
 * <a href= "https://jupiter.mybalsamiq.com" target="_blank">Wireframes (in Balsamiq)</a>. 
-The image below is a wireframe for Jupiter's deposit page:
+The image below is an example wireframe for Jupiter's deposit page:
 
 ![DepositItemMockup](images/deposititem.png?raw=true)
 ## Accessibility
